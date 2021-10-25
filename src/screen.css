@@ -4,21 +4,3 @@
 .container, .content {
 width: 100%;
 }
-
-li{
-    list-style : disc;
-  }
-  
-  .col {
-      float: left;
-      width: 50%;
-      
-     }
-  
-  .heading{
-    float: left;
-    width: 50%;
-    text-align:center;
-    margin-top:25%;
-    
-  }
